@@ -20,7 +20,7 @@ cd eigenda-operator-setup
 chmod +x run.sh
 cp .env.example .env
 ```
-Update the `TODO` sections in the  `.env` file given in the root directory of the repository with your own details.:
+Update the `TODO` sections in the  `.env` file given in the root directory of the repository with your own details.
 
 ### Create some local folders which are required by EigenDA
 ```bash
